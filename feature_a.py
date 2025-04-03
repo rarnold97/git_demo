@@ -10,5 +10,9 @@ def main():
    print("I am the manager and I am saying this line of code is something you need!")
 
 
+   print("I am a developer, and I worked hard on this part of the code.")
+
+
 if __name__ == "__main__":
    main()
+
